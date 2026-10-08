@@ -1,2 +1,1 @@
-## About TaskBoard
-A simple task management application.
+# TaskBoard App - Master Branch Version
